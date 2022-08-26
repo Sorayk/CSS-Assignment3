@@ -1,0 +1,40 @@
+
+.homepage{
+    font-family:'Trebuchet MS';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: blue;
+}
+
+.homeimage{
+    
+    border: 8px solid rgb(228, 234, 239);
+    border-radius: 15px; 
+}
+
+.section1{
+   background-color: rgb(18, 152, 220);
+    display: flex;
+    justify-content: center;
+    margin: 2rem;
+    padding: 1rem; 
+    border: 13px solid #4455da;
+}
+
+.links{
+    color: rgb(10, 8, 155);
+    font-size: 36px;
+    background-color: rgb(224, 224, 233);
+    border: 0.5rem solid;
+}
+body{
+    background-color: rgb(40, 121, 192);
+    margin: 120px 500px 120px 500px;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
